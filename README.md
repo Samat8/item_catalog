@@ -1,4 +1,4 @@
-# cinema_app
+# item_catalog
 
 A new Flutter project.
 
